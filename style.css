@@ -1,35 +1,10 @@
-*{
-    box-sizing: border-box;
+.caixa{
+width: 100px;
+height: 100px;
+background: crimson;
 }
-button{
-    display: block;
-    margin: 20px auto;
-    background: crimson;
-    color: white;
-    border: 0;
-    cursor: pointer;
-    padding: 6px 10px;
-}
-.popup-wrapper{
-    background: rgba(0, 0, 0, .5);
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-.popup{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
-    text-align: center;
-    width: 100%;
-    max-width: 300px;
-    margin: 10% auto;
-    padding: 20px;
-    background: white;
-    position: relative;
-}
-body{
-    background: rgba(rgb(190, 36, 36), rgb(99, 170, 99), rgb(67, 67, 179), alpha);
-    color: white;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+.drop {
+    width: 200px;
+    height: 100px;
+    background-color: orange;
 }
