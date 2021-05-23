@@ -1,0 +1,16 @@
+/home/wallisonsantos/Área de Trabalho/aula/bin/Debug/net5.0/aula
+/home/wallisonsantos/Área de Trabalho/aula/bin/Debug/net5.0/aula.deps.json
+/home/wallisonsantos/Área de Trabalho/aula/bin/Debug/net5.0/aula.runtimeconfig.json
+/home/wallisonsantos/Área de Trabalho/aula/bin/Debug/net5.0/aula.runtimeconfig.dev.json
+/home/wallisonsantos/Área de Trabalho/aula/bin/Debug/net5.0/aula.dll
+/home/wallisonsantos/Área de Trabalho/aula/bin/Debug/net5.0/ref/aula.dll
+/home/wallisonsantos/Área de Trabalho/aula/bin/Debug/net5.0/aula.pdb
+/home/wallisonsantos/Área de Trabalho/aula/obj/Debug/net5.0/aula.csprojAssemblyReference.cache
+/home/wallisonsantos/Área de Trabalho/aula/obj/Debug/net5.0/aula.GeneratedMSBuildEditorConfig.editorconfig
+/home/wallisonsantos/Área de Trabalho/aula/obj/Debug/net5.0/aula.AssemblyInfoInputs.cache
+/home/wallisonsantos/Área de Trabalho/aula/obj/Debug/net5.0/aula.AssemblyInfo.cs
+/home/wallisonsantos/Área de Trabalho/aula/obj/Debug/net5.0/aula.csproj.CoreCompileInputs.cache
+/home/wallisonsantos/Área de Trabalho/aula/obj/Debug/net5.0/aula.dll
+/home/wallisonsantos/Área de Trabalho/aula/obj/Debug/net5.0/ref/aula.dll
+/home/wallisonsantos/Área de Trabalho/aula/obj/Debug/net5.0/aula.pdb
+/home/wallisonsantos/Área de Trabalho/aula/obj/Debug/net5.0/aula.genruntimeconfig.cache
